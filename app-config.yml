@@ -1,0 +1,5 @@
+freelancer.service.host: freelancer-service.hagen-tonnecker-assignment.svc
+freelancer.service.port: 8080
+
+project.service.host: project-service.hagen-tonnecker-assignment.svc
+project.service.port: 8080
